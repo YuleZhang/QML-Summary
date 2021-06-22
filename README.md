@@ -48,3 +48,5 @@
   * Zhao-Yu Han et al. (PRX 2018)
 * Supervised Learning with Quantum-Inspired Tensor Networks [[Github]](https://github.com/emstoudenmire/TNML)
   * E.M. Stoudenmire et al. (NIPS 2016)
+* Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-4990.ZhengY.pdf) [[Code]](https://qibinzhao.github.io/publications/AAAI2021_Yu_Bang_Zheng/code_FCTN_Decomposition.zip)
+  * Y. Zheng, T. Huang, X. Zhao, Q. Zhao, T. Jiang (AAAI 2021)
