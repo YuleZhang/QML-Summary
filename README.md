@@ -29,6 +29,24 @@
 
 ## Survery（Updating...）
 
+
+### 2016
+* Supervised Learning with Quantum-Inspired Tensor Networks [[Code]](https://github.com/emstoudenmire/TNML)
+  * E.M. Stoudenmire et al. (NIPS 2016)
+
+### 2018
+* Tensorizing generative adversarial nets [[Paper]](https://ieeexplore.ieee.org/abstract/document/8552122) [[Code]](https://github.com/xwcao/TGAN)
+  * X. Cao, X. Zhao, Q. Zhao. [C] (ICCE Asia 2018 (International Conference On Consumer Electronics))
+* Generative adversarial positive-unlabeled learning [[Paper]](https://www.ijcai.org/proceedings/2018/0312.pdf) [[Code]](https://qibinzhao.github.io/publications/IJCAI_2018_HouMing/gen_pu_demo.zip)
+  * M. Hou, B. Chaib-draa, C. Li, Q. Zhao. [C] (IJCAI 2018)
+* Unsupervised Generative Modeling Using Matrix Product States [[arXiv]](https://arxiv.org/abs/1709.01662) [[Code]](https://github.com/congzlwag/UnsupGenModbyMPS) 
+  * Zhao-Yu Han et al. (PRX 2018)
+
+### 2019
+* Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures [[arXiv]](https://arxiv.org/abs/1710.04833) [[Github]](https://github.com/dingliu0305/Tree-Tensor-Networks-in-Machine-Learning)
+  * Ding Liu et al. (NJP 2019)
+
+### 2020
 * Generative tensor network classification model for supervised machine learning [[arXiv]](https://arxiv.org/abs/1903.10742) [[Code]](https://github.com/crazybigcat/GTNC)
   * Zheng-Zhi Sun, et al. (PRB 2020)
 * Tangent-Space Gradient Optimization of Tensor Network for Machine Learning  [[arXiv]](https://arxiv.org/abs/2001.04029) [[Code]](https://github.com/crazybigcat/TSGO)
@@ -41,16 +59,13 @@
   * Raghavendra Selvan et al. (MIDL 2020) 
 * Deep convolutional tensor network [[arXiv]](https://arxiv.org/abs/2005.14506) [[Code]](https://github.com/philip-bl/dctn)
   * Philip Blagoveschensky et al. (Preprint. Under review 2020)
-* Quantum-Classical Machine learning by Hybrid Tensor Networks [[arXiv]](https://arxiv.org/abs/2005.09428) [[Code]](https://github.com/dingliu0305/Hybrid-Tensor-Network)
-* Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures [[arXiv]](https://arxiv.org/abs/1710.04833) [[Github]](https://github.com/dingliu0305/Tree-Tensor-Networks-in-Machine-Learning)
-  * Ding Liu et al. (NJP 2019)
-* Unsupervised Generative Modeling Using Matrix Product States [[arXiv]](https://arxiv.org/abs/1709.01662) [[Code]](https://github.com/congzlwag/UnsupGenModbyMPS) 
-  * Zhao-Yu Han et al. (PRX 2018)
-* Supervised Learning with Quantum-Inspired Tensor Networks [[Code]](https://github.com/emstoudenmire/TNML)
-  * E.M. Stoudenmire et al. (NIPS 2016)
+* Evolutionary Topology Search for Tensor Network Decomposition [[Paper]](http://proceedings.mlr.press/v119/li20l/li20l.pdf) [[Code]](https://github.com/minogame/icml2020-TNGA)
+  * C. Li, Z. Sun. [C] (ICML 2020)
+
+### 2021
 * Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-4990.ZhengY.pdf) [[Code]](https://qibinzhao.github.io/publications/AAAI2021_Yu_Bang_Zheng/code_FCTN_Decomposition.zip)
   * Y. Zheng, T. Huang, X. Zhao, Q. Zhao, T. Jiang (AAAI 2021)
-* Tensorizing generative adversarial nets [[Paper]](https://ieeexplore.ieee.org/abstract/document/8552122) [[Code]](https://github.com/xwcao/TGAN)
-  * X. Cao, X. Zhao, Q. Zhao. [C] (ICCE Asia 2018 (International Conference On Consumer Electronics))
-* Generative adversarial positive-unlabeled learning [[Paper]](https://www.ijcai.org/proceedings/2018/0312.pdf) [[Code]](https://qibinzhao.github.io/publications/IJCAI_2018_HouMing/gen_pu_demo.zip)
-  * M. Hou, B. Chaib-draa, C. Li, Q. Zhao. [C] (IJCAI 2018)
+* Locally orderless tensor networks for classifying two- and three-dimensional medical images [[Paper]]() [[Code]](https://github.com/raghavian/LoTeNet_pytorch/)
+  * Raghavendra Selvan, et, al. (MELBA 2021)
+* Quantum-Classical Machine learning by Hybrid Tensor Networks [[arXiv]](https://arxiv.org/abs/2005.09428) [[Code]](https://github.com/dingliu0305/Hybrid-Tensor-Network)
+  * Fanjie Kong et, al. (Preprint 2021)
