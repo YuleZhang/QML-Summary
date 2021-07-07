@@ -1,4 +1,4 @@
-由于目前张量网络的工作逐渐增多，很多实验室都封装了自己的张量收缩算法包，同时还有一些论文给出了具体的工作，在此归类梳理一下方便日后的学习。
+Summary about tensor network in machine learning.
 
 ## Workshop
 
@@ -69,3 +69,5 @@
   * Raghavendra Selvan, et, al. (MELBA 2021)
 * Quantum-Classical Machine learning by Hybrid Tensor Networks [[arXiv]](https://arxiv.org/abs/2005.09428) [[Code]](https://github.com/dingliu0305/Hybrid-Tensor-Network)
   * Fanjie Kong et, al. (Preprint 2021)
+* Tensor networks for unsupervised machine learning [[Paper]](https://arxiv.org/abs/2106.12974) [[Code]](https://github.com/bnuliujing/tn-for-unsup-ml)
+  * Jing Liu et, al. (Preprint 2021)
