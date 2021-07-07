@@ -1,12 +1,12 @@
-Summary about tensor network in machine learning.
+Summary about tensor network (TN) in machine learning.
 
 ## Workshop
 
-* [**IJCAL**](https://tensorworkshop.github.io/2020/index.html): International Workshop on Tensor Network Representations in Machine Learning
+* [**IJCAL**](https://tensorworkshop.github.io/2020/CFP.html): International Workshop on Tensor Network Representations in Machine Learning
 * [**NeurIPS2020**](https://tensorworkshop.github.io/NeurIPS2020/): Quantum tensor networks in machine learning
 * [ipam](http://ipam.ucla.edu/wp-content/uploads/2019/09/TMWS2-Poster.pdf): Tensor Network States and Applications, **APRIL 19 - 23, 2021**
 
-## Learning Materials
+## Basic TN Materials
 
 * [TN_tutorial](https://github.com/ranshiju/TN_tutorial)是冉仕举老师对张量网络机器学习的一个详细的介绍，该仓库是[Bilibili视频](https://www.bilibili.com/video/BV17z411i7yM?p=1)的配套代码，搭配食用效果更佳。
 * [**Tensors**.net](https://www.tensors.net/)是一个开源的网站，里面图解了各种张量网络算法，并给出了Python/Matlab/Julia的相关实现，简直良
@@ -14,11 +14,11 @@ Summary about tensor network in machine learning.
 * [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)包含了全网所有的量子机器学习基础知识，算法，研究材料，项目以及项目描述，例如**量子遗传算法、量子隐马尔可夫模型、基于主成分分析的量子分类算法**等等，有很多比较**前沿的工作**在里面。
 * [tensornetwork.org](https://tensornetwork.org/)张量网络算法、理论和软件的介绍
 
-## **Tensor network library**
+## **Helpful Tensor network library**
 
-大部分张量网络收缩库都是基于Python，还有少量的C++、Matlab，在下面会注明
+Most of the tensor network contracted libraries are based on Python, and there are a small amount of C++, Matlab, which will be noted below
 
-* [TensorNetwork](https://github.com/google/TensorNetwork)，Google于2019年开源的Python库，目前应用最为广泛
+* [TensorNetwork](https://github.com/google/TensorNetwork), Google's open source Python library in 2019 is currently the most widely used
 * [qml](https://github.com/qmlcode/qml)是用于量子机器学习的Python工具包，有回归、预测、学习曲线等等，能省很多功夫去造轮子
 * [netket](https://github.com/netket/netket)是一个开源代码项目，它提供了用于通过ANN和ML研究多体量子系统的前沿方法，它是基于JAX构建的Python库。
 * [tenpy](https://github.com/tenpy/tenpy) Python库，用于模拟具有张量网络的高度相关的量子系统，有比较详细的文档和算法演示示例（例如TEBD和DMRG）
@@ -71,3 +71,5 @@ Summary about tensor network in machine learning.
   * Fanjie Kong et, al. (Preprint 2021)
 * Tensor networks for unsupervised machine learning [[Paper]](https://arxiv.org/abs/2106.12974) [[Code]](https://github.com/bnuliujing/tn-for-unsup-ml)
   * Jing Liu et, al. (Preprint 2021)
+* Segmenting two-dimensional structures with strided tensor networks [[Paper]](https://arxiv.org/abs/2102.06900) [[Code]](https://github.com/raghavian/strided-tenet)
+  * Selvan et al. (IPMI-2021)
